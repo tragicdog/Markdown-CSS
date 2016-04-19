@@ -2,8 +2,6 @@
 
 This is a simple style with normalized defaults, it should work on anything from a desktop, to a phone.
 
-View the live preview here: http://simon.lc/sites/markdown/.
-
 ## How to use
 
 Add this to the top of your markdown file
